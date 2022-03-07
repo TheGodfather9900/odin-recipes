@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+    font-size: 100px;
+
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.para {
+    text-align: center;
+    font-size: x-large;
+
+}
+
+p {
+    text-align: center;
+    font-size: large;
+}
+
+.belowh {
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.first-ul {
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
